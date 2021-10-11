@@ -30,6 +30,11 @@
 ### Setup
 All you have to do is to open the project in vscode by PlatformIO extension
 
+### Configuration
+after uploading the code all you have to is to connect to Esp access point called "Metric Node" with 12345678 as password, then you can setup server address ,device token and bearer token for authentication.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/29748439/136797180-dda9a246-fc53-45c4-8e11-519fc65f861f.gif" alt="platformio" width="300" /> 
+</p>
 ### Fritzing schema
 A simple view of the project model schema.
 <p align="center">
