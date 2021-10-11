@@ -21,7 +21,7 @@ char token[8] = "dpq4Q7G";
 char bearer_token[41] = "bec0cc857ff19b122433efbedd8c8772b8e3f8c6";
 String url;
 
-#define DHTPIN 2
+#define DHTPIN 4
 //#define DHTTYPE DHT11   // DHT 11
 #define DHTTYPE DHT22 // DHT 22  (AM2302), AM2321
 //#define DHTTYPE DHT21   // DHT 21 (AM2301)
