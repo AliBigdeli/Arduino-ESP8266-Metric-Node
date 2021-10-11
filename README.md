@@ -33,8 +33,9 @@ All you have to do is to open the project in vscode by PlatformIO extension
 ### Fritzing schema
 A simple view of the project model schema.
 <p align="center">
-<img src="" alt="Fritzing schema" width="500"/>
+<img src="https://user-images.githubusercontent.com/29748439/136793875-56343e9e-0538-4308-b5e5-b89b02fba14d.PNG" alt="Fritzing schema" width="500"/>
 </p>
+
 
 
 
